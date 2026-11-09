@@ -1,8 +1,10 @@
+![Project Screenshot](<img width="851" height="315" alt="The Mandeleevinator!" src="https://github.com/user-attachments/assets/1c81055b-99f6-4c84-965e-810bd0978d76" />
+)
 # Mandeleevinator
 “The Mendeleevinator” it’s like Akinator but for elements. A simple terminal element-guessing game. Follow the input instructions in the console and enter the information so Mendeleev can guess the element!
 
 # Try it out!
-https://www.jdoodle.com/ga/6yrz-x7j5-h6rt
+https://github.com/M00nAng3l/Mandeleevinator/tree/main/img
  
 # Mandeleevinator can guess your element using only its atomic mass range, state of matter, and element category!
 # The mandeleevinator guesses your element by taking your inputted answers, then comparing them to the Element Database to give you a Match or possible matches.
