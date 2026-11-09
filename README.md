@@ -1,5 +1,5 @@
-![Cover image](<img width="851" height="315" alt="The Mandeleevinator!" src="https://github.com/user-attachments/assets/1c81055b-99f6-4c84-965e-810bd0978d76" />
-)
+<img width="851" height="315" alt="The Mandeleevinator!" src="https://github.com/user-attachments/assets/c0a00682-51dd-49bf-af49-86ec38be4254" />
+
 # Mandeleevinator
 “The Mendeleevinator” it’s like Akinator but for elements. A simple terminal element-guessing game. Follow the input instructions in the console and enter the information so Mendeleev can guess the element!
 
